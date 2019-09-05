@@ -1,0 +1,32 @@
+.a_rows {
+    padding: 4px 28px;
+    color: #f58322;
+    font-size: 14px;
+    text-decoration: none;
+    background: #dddddd;
+}
+
+.a_rows:hover,.tabResult a:focus {
+	border: 1px solid #f58322; 
+	text-decoration: none;
+}
+
+.text-center{
+	text-align: center !important;
+}
+
+._space{
+	padding: 20px;
+}
+
+.validation_error{
+	color: red;
+	font-weight: 600;
+	font-size: 12px;
+}
+
+#menu li a.active {
+    color: #fff;
+    background: #f58322;
+}
+
